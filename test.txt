@@ -1,1 +1,3 @@
 test gita 1
+
+test gita po utworzenia brancha feature/new-branch-1
