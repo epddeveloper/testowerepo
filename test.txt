@@ -1,7 +1,8 @@
 test gita 1
 
 
-test gita fdghjklhjhhffhghjpo utworzenia brancha feature/new-branch-1
+test test 2 22222222222222222 gita fdghpo utworzenia brancha feature/new-branch-1
+
 
 
 test gifghjklta po utworzenia brancha feature/new-branch-1
