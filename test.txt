@@ -1,6 +1,6 @@
 test gita 1
 
-test gita po utworzenia brancha feature/new-branch-1
+test gita fdghjklhjhhffhghjpo utworzenia brancha feature/new-branch-1
 
 
 zmiana na masterze
